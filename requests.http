@@ -1,0 +1,2 @@
+### get service status
+GET http://localhost:8080/
