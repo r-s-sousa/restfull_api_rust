@@ -1,0 +1,23 @@
+# Ignore compiled binaries and executables
+/target
+
+# Ignore Cargo.lock file
+Cargo.lock
+
+# Ignore .env files (if you're using dotenv for environment variables)
+.env
+
+# Optional: Ignore IDE or editor files
+# Example for Visual Studio Code
+.vscode/
+
+# Ignore any generated documentation
+/doc/
+
+# Ignore any logs or temporary files
+/log/
+/temp/
+
+# Exclude any OS or editor-specific files
+.DS_Store
+*.swp
